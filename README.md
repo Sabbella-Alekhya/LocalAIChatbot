@@ -43,4 +43,4 @@ Local AI Models/Logic: Could be simple rule-based responses or integration with 
 
 JSON for Data Exchange: Communication between client and server is handled via JSON payloads for easy parsing and flexibility.
 
-OUTPUT: 
+OUTPUT:  ![Image](https://github.com/user-attachments/assets/50c7bd45-02a7-465d-bb1b-a14ed9876718)
